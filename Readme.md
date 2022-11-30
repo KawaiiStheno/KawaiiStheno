@@ -23,7 +23,7 @@
 <h3>☎️ &nbsp; Contact me </h3>
 <p>
     <a href="https://www.linkedin.com/in/stefano-luppi-8168801a2/" target="_blank"><img src="https://img.shields.io/badge/linkedin-14354C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:stefanoluppi@hotmail.com"><img src="https://img.shields.io/badge/hotmail-14354C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:stefanoluppi@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-14354C?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </p>
 
 
